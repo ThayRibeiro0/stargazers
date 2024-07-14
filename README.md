@@ -9,10 +9,10 @@ Currently, two official plugins are available:
 LinkedIn Learning course Hands-On Introduction: React
 Review about React to improve knowlegde:
 
-### Create application:  
+### Vite - Create application:  
 ```sh
 npm create vite@latest  
-cd stargazers            
+cd <nameoftheproject>
 npm install
 npm run dev
 ``` 
@@ -28,6 +28,12 @@ npm install @picocss/pico
 ```
 
 # References:
-[LinkedIn Learning][lil-course-url].
+[LinkedIn Learning][https://www.linkedin.com/learning/hands-on-introduction-react/].
+[Noje.js] [https://nodejs.org/en/download/package-manager]
+[React][https://legacy.reactjs.org/docs/getting-started.html].
+[Create React App] [https://create-react-app.dev/docs/getting-started]
 [Sass] [https://sass-lang.com/install/].
 [Pico.Css][https://picocss.com/docs#install-manually].
+[Vite] [https://vitejs.dev/]
+[Google Fonts][https://fonts.google.com/selection/embed]
+[Google Material] [https://fonts.google.com/icons?query=bung]
